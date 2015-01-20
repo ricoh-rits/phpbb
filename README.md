@@ -2,6 +2,8 @@
 
 ## ABOUT
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ricoh-rits/phpbb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 phpBB is a free bulletin board written in PHP.
 
 ## COMMUNITY
